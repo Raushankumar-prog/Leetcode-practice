@@ -13,7 +13,7 @@ public:
             int levelSize = q.size();
             unsigned long long leftMostPos = q.front().second;
             unsigned long long rightMostPos = q.back().second;
-            maxWidth = std::max(maxWidth, static_cast<int>(rightMostPos - leftMostPos + 1));
+            maxWidth = max(maxWidth, static_cast<int>(rightMostPos - leftMostPos + 1));
 
             for (int i = 0; i < levelSize; ++i) {
                 auto node = q.front().first;
