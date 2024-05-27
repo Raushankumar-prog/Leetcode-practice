@@ -5,7 +5,7 @@ public:
     int widthOfBinaryTree(TreeNode* root) {
        if (!root) return 0;
 
-        std::queue<std::pair<TreeNode*, unsigned long long>> q;
+    queue<pair<TreeNode*, unsigned long long>> q;
         q.push({root, 0});
         int maxWidth = 0;
 
