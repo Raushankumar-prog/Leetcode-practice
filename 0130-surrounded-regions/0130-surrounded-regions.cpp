@@ -18,6 +18,9 @@ private:
 
 public:
     void solve(vector<vector<char>>& board) {
+          ios_base::sync_with_stdio(false);
+            cin.tie(NULL);
+
         int rows = board.size();
         int cols = board[0].size();
         int delrow[] = {-1, 0, 1, 0};
