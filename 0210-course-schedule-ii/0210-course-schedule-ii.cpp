@@ -1,8 +1,7 @@
 class Solution {
 public:
     vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
-          ios_base::sync_with_stdio(false);
-            cin.tie(NULL);
+        
 
       vector<int>adj[numCourses];
       for(auto it: prerequisites){
