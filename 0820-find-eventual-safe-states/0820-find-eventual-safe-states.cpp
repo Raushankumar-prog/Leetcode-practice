@@ -1,6 +1,9 @@
 class Solution {
 public:
     vector<int> eventualSafeNodes(vector<vector<int>>& graph) {
+          ios_base::sync_with_stdio(false);
+            cin.tie(NULL);
+
         int v = graph.size();
         vector<vector<int>> adjRev(v);
         vector<int> indegree(v, 0);
