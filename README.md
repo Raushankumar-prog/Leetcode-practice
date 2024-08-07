@@ -41,11 +41,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Raushankumar-prog/Leetcode-practice/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/Raushankumar-prog/Leetcode-practice/tree/master/0205-isomorphic-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/Raushankumar-prog/Leetcode-practice/tree/master/0451-sort-characters-by-frequency) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Raushankumar-prog/Leetcode-practice/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/Raushankumar-prog/Leetcode-practice/tree/master/0205-isomorphic-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/Raushankumar-prog/Leetcode-practice/tree/master/0451-sort-characters-by-frequency) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Raushankumar-prog/Leetcode-practice/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -69,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Raushankumar-prog/Leetcode-practice/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Raushankumar-prog/Leetcode-practice/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
