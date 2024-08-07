@@ -5,10 +5,10 @@ public:
         for(char c :s){
             if(c=='('){
                 count++;
-                maxi=max(count,maxi);
+                
             }
             else if( c==')'){
-                
+                maxi=max(count,maxi);
                 count--;
             }
         }
