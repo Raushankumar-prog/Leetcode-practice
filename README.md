@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Raushankumar-prog/Leetcode-practice/tree/master/0005-longest-palindromic-substring) |
 | [0152-maximum-product-subarray](https://github.com/Raushankumar-prog/Leetcode-practice/tree/master/0152-maximum-product-subarray) |
 ## Hash Table
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Raushankumar-prog/Leetcode-practice/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Raushankumar-prog/Leetcode-practice/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Raushankumar-prog/Leetcode-practice/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/Raushankumar-prog/Leetcode-practice/tree/master/0205-isomorphic-strings) |
@@ -76,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Raushankumar-prog/Leetcode-practice/tree/master/0013-roman-to-integer) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Raushankumar-prog/Leetcode-practice/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
