@@ -78,8 +78,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Raushankumar-prog/Leetcode-practice/tree/master/0013-roman-to-integer) |
+| [2050-count-good-numbers](https://github.com/Raushankumar-prog/Leetcode-practice/tree/master/2050-count-good-numbers) |
 ## Two Pointers
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Raushankumar-prog/Leetcode-practice/tree/master/0005-longest-palindromic-substring) |
+## Recursion
+|  |
+| ------- |
+| [2050-count-good-numbers](https://github.com/Raushankumar-prog/Leetcode-practice/tree/master/2050-count-good-numbers) |
 <!---LeetCode Topics End-->
