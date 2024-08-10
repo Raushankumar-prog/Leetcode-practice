@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Raushankumar-prog/Leetcode-practice/tree/master/0078-subsets) |
 | [0152-maximum-product-subarray](https://github.com/Raushankumar-prog/Leetcode-practice/tree/master/0152-maximum-product-subarray) |
 | [0493-reverse-pairs](https://github.com/Raushankumar-prog/Leetcode-practice/tree/master/0493-reverse-pairs) |
 ## Binary Search
@@ -93,4 +94,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Raushankumar-prog/Leetcode-practice/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/Raushankumar-prog/Leetcode-practice/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Raushankumar-prog/Leetcode-practice/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
