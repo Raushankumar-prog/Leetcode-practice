@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Raushankumar-prog/Leetcode-practice/tree/master/0152-maximum-product-subarray) |
 | [0216-combination-sum-iii](https://github.com/Raushankumar-prog/Leetcode-practice/tree/master/0216-combination-sum-iii) |
 | [0493-reverse-pairs](https://github.com/Raushankumar-prog/Leetcode-practice/tree/master/0493-reverse-pairs) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Raushankumar-prog/Leetcode-practice/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Binary Search
 |  |
 | ------- |
@@ -111,4 +112,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Raushankumar-prog/Leetcode-practice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Raushankumar-prog/Leetcode-practice/tree/master/0090-subsets-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Raushankumar-prog/Leetcode-practice/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+## Prefix Sum
+|  |
+| ------- |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Raushankumar-prog/Leetcode-practice/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
