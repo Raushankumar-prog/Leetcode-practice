@@ -15,11 +15,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Raushankumar-prog/Leetcode-practice/tree/master/0152-maximum-product-subarray) |
 | [0216-combination-sum-iii](https://github.com/Raushankumar-prog/Leetcode-practice/tree/master/0216-combination-sum-iii) |
 | [0493-reverse-pairs](https://github.com/Raushankumar-prog/Leetcode-practice/tree/master/0493-reverse-pairs) |
+| [1046-max-consecutive-ones-iii](https://github.com/Raushankumar-prog/Leetcode-practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Raushankumar-prog/Leetcode-practice/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Binary Search
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Raushankumar-prog/Leetcode-practice/tree/master/0493-reverse-pairs) |
+| [1046-max-consecutive-ones-iii](https://github.com/Raushankumar-prog/Leetcode-practice/tree/master/1046-max-consecutive-ones-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -118,9 +120,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Raushankumar-prog/Leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1046-max-consecutive-ones-iii](https://github.com/Raushankumar-prog/Leetcode-practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Raushankumar-prog/Leetcode-practice/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
 | ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/Raushankumar-prog/Leetcode-practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Raushankumar-prog/Leetcode-practice/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
